@@ -1,0 +1,22 @@
+export const NewData = [
+    {
+        id:1,
+        name:'asasdbek',
+        status:'talaba'
+    },
+    {
+        id:2,
+        name:'asasdbek',
+        status:'talaba'
+    },
+    {
+        id:3,
+        name:'asasdbek',
+        status:'talaba'
+    },
+    {
+        id:4,
+        name:'asasdbek',
+        status:'talaba'
+    }
+]
