@@ -12,6 +12,9 @@ const Root = () => {
         {/* this is from test 2 */}
 
         {/* buham test2dan  */}
+
+        {/* bu endi ako masterdan  */}
+
         <Route path="korzinka" element={<Korzinka />} />
         <Route path="admin" element={<Admin />} />
         <Route path="home" element={<Home />} />
