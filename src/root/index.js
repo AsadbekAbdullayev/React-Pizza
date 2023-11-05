@@ -9,6 +9,7 @@ const Root = () => {
     <>
       <Routes>
         {/* this is from test1 branch */}
+        {/* this is from test 2 */}
         <Route path="korzinka" element={<Korzinka />} />
         <Route path="admin" element={<Admin />} />
         <Route path="home" element={<Home />} />
